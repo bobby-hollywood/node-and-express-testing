@@ -1,6 +1,6 @@
 {
   "name": "fcc-learn-npm-package-json",
-  "author": "Steve Moore",
+  "author": "Steve Moore <stevemoore@Mac.attlocal.net>",
   "dependencies": {
     "express": "^4.14.0"
   },
